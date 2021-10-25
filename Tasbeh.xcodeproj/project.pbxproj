@@ -13,6 +13,7 @@
 		CCFE95802725314900BF439B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCFE957E2725314900BF439B /* Main.storyboard */; };
 		CCFE95822725314A00BF439B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCFE95812725314A00BF439B /* Assets.xcassets */; };
 		CCFE95852725314A00BF439B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCFE95832725314A00BF439B /* LaunchScreen.storyboard */; };
+		CCFE958D27253A9B00BF439B /* Tasbeh.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCFE958C27253A9B00BF439B /* Tasbeh.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CCFE95812725314A00BF439B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCFE95842725314A00BF439B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCFE95862725314A00BF439B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCFE958C27253A9B00BF439B /* Tasbeh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tasbeh.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CCFE95782725314900BF439B /* AppDelegate.swift */,
 				CCFE957A2725314900BF439B /* SceneDelegate.swift */,
 				CCFE957C2725314900BF439B /* ViewController.swift */,
+				CCFE958C27253A9B00BF439B /* Tasbeh.swift */,
 				CCFE957E2725314900BF439B /* Main.storyboard */,
 				CCFE95812725314A00BF439B /* Assets.xcassets */,
 				CCFE95832725314A00BF439B /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				CCFE957D2725314900BF439B /* ViewController.swift in Sources */,
 				CCFE95792725314900BF439B /* AppDelegate.swift in Sources */,
+				CCFE958D27253A9B00BF439B /* Tasbeh.swift in Sources */,
 				CCFE957B2725314900BF439B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
